@@ -72,7 +72,7 @@ The FMCG Multi-Country Sales Analysis Dashboard was designed to achieve the foll
 
 **Optimize Resource Allocation:** Help managers allocate resources (budget, inventory, personnel) to the highest-impact opportunities
 
-## Dashboard Visualizations and Screenshots
+## Dashboard Visualizations 
 
 ![FMCG Sales Analysis Dashboard - Overview Page](https://github.com/Nitin-data-domain/FMCG-Analyis/blob/main/Images/FMCG-1.jpeg)
 
@@ -166,107 +166,7 @@ The temporal analysis section tracks FMCG sales performance over time to reveal 
 
 Finance teams can develop accurate budgets and financial forecasts based on historical trends and seasonality. Operations teams can plan production schedules and inventory builds for peak seasons. Marketing teams can time promotional campaigns to coincide with or counteract seasonal patterns. Executive teams can set realistic growth targets informed by historical performance.
 
-## Promotional Campaign Impact Analysis
 
-**Visualization Types:** Comparison charts, before-and-after analysis, lift analysis, and ROI calculations
-
-This critical section measures the effectiveness of promotional activities:
-
-**Promoted vs. Non-Promoted Sales** - Compares revenue and volume during promotional periods vs. baseline periods
-
-**Discount Impact Analysis** - Shows relationship between discount depth and sales lift, profit erosion
-
-**Promotional Lift Metrics** - Calculates percentage increase in sales attributable to promotions
-
-**ROI of Marketing Campaigns** - Measures incremental profit generated per dollar of promotional spending
-
-**Channel-Specific Promotion Performance** - Analyzes which channels (online, retail, wholesale) respond best to promotions
-
-**Customer Response Analysis** - Segments customers by promotional sensitivity and deal-seeking behavior
-
-**Long-Term Impact Assessment** - Evaluates whether promotions steal from future sales or create lasting demand
-
-**Business Value and Applications:**
-
-Marketing teams can optimize promotional strategies by identifying which tactics drive volume without destroying margins. Pricing teams can set optimal discount levels that maximize profitability. Sales teams can negotiate better trade promotion terms with retailers based on proven ROI. Finance teams can accurately budget promotional spending and forecast its impact on quarterly results.
-
-## Profitability Analysis and Margin Management
-
-**Visualization Types:** Waterfall charts, margin bridges, contribution analysis, and profit decomposition
-
-The profitability section breaks down profit drivers and identifies optimization opportunities:
-
-**Margin Analysis by Dimension** - Profit margins segmented by product category, brand, region, and customer segment
-
-**Cost Structure Breakdown** - Separates fixed costs from variable costs and COGS from operational expenses
-
-**Price-Volume-Mix Analysis** - Decomposes profit changes into contributions from pricing, volume, and product mix shifts
-
-**Contribution Margin Analysis** - Shows which products and regions contribute most to covering fixed costs
-
-**Margin Compression Identification** - Highlights areas where margins are declining and requires intervention
-
-**What-If Scenario Modeling** - Allows users to model impact of price changes, cost reductions, or mix shifts
-
-**Business Value and Applications:**
-
-Finance teams can develop strategies to improve overall company profitability and EBITDA margins. Pricing teams can identify opportunities for selective price increases in less price-sensitive segments. Procurement teams can prioritize cost reduction initiatives in high-impact categories. Sales teams can focus on selling higher-margin products and avoid over-discounting.
-
-## Interactive Filters and Dynamic Slicers
-
-The dashboard includes comprehensive filtering capabilities for customized analysis:
-
-**Geographic Filters** - Country, Region, City selection for location-based analysis
-
-**Product Dimension Filters** - Category, Brand, SKU selection for product-focused analysis
-
-**Time Period Slicers** - Date range, Month, Quarter, Year selection for temporal analysis
-
-**Promotional Status Filter** - Toggle between promoted and non-promoted periods
-
-**Customer Segment Filters** - B2B, B2C, wholesale, retail channel selection
-
-**Performance Thresholds** - Filter for top/bottom performers, high/low margin products
-
-**Business Value:** Users can customize dashboard views based on specific analytical needs without creating multiple static reports, enabling self-service analytics and reducing dependency on IT or analytics teams.
-
-## Business Impact and Strategic Insights
-
-### Marketing Optimization and Campaign Management
-
-Identify which promotional tactics and marketing channels yield the highest return on investment (ROI). Allocate marketing budgets to high-performing regions, products, and customer segments. Tailor campaign messaging and creative based on regional preferences and demonstrated purchasing behaviors. Optimize promotional timing to align with natural demand patterns. Reduce wasteful spending on ineffective promotional activities.
-
-### Strategic Market Expansion and Geographic Growth
-
-Discover underserved markets with favorable demographics and growth potential. Benchmark performance across similar regions to set realistic targets and identify best practices. Plan geographic expansion and distribution network development based on data-driven market assessments. Prioritize investment in high-potential markets while optimizing or exiting underperforming ones. Develop region-specific strategies that account for local market dynamics.
-
-### Product Portfolio Management and SKU Rationalization
-
-Focus resources on high-margin, high-volume products that drive disproportionate business value. Phase out low-performing SKUs to reduce supply chain complexity and inventory carrying costs. Introduce new products in categories showing strong consumer demand and market growth. Optimize product assortment by channel and region based on local preferences. Make informed decisions about brand positioning and repositioning opportunities.
-
-### Revenue Growth and Profit Maximization
-
-Optimize pricing strategies based on granular margin analysis and competitive positioning. Balance volume growth objectives with profitability goals to maximize shareholder value. Identify opportunities to reduce discounting while maintaining competitive market position. Improve revenue mix by shifting sales toward higher-margin products and channels. Capture additional revenue through cross-selling and bundle opportunities.
-
-### Operational Efficiency and Supply Chain Optimization
-
-Identify supply chain inefficiencies through analysis of regional sales patterns and inventory turnover. Optimize inventory levels based on demand forecasting to reduce working capital requirements. Reduce stockouts in high-demand regions that result in lost sales and customer dissatisfaction. Minimize excess inventory in slow-moving regions to free up cash and warehouse space. Improve production planning and procurement based on accurate demand predictions.
-
-## Repository Structure and File Organization
-
-```
-FMCG-Analysis/
-│
-├── Images/
-│   ├── FMCG-1.jpeg                 # Dashboard overview screenshot
-│   ├── FMCG-2.jpeg                 # Product performance page
-│   └── FMCG-3.jpeg                 # Regional analysis page
-│
-├── Power BI File/
-│   └── FMCG_Analysis.pbix          # Complete Power BI dashboard file
-│
-└── README.md                        # Project documentation
-```
 
 ## How to Use This Power BI Dashboard
 
@@ -332,19 +232,15 @@ https://community.powerbi.com/
 
 **Career Goal:** Transitioning to Data Analyst role
 
-**Technical Skills:** Python, SQL, Excel, Power BI
+**Technical Skills:** SQL, Excel, Power BI
 
-**Email:** [Your Email Address]
+**Email:** nitin219027@gmail.com
 
-**LinkedIn:** [Your LinkedIn Profile URL]
+**LinkedIn:** https://www.linkedin.com/in/nitingirdhar/
 
 **GitHub:** https://github.com/Nitin-data-domain
 
 **Portfolio:** Explore more data analytics projects and visualizations in my GitHub repositories
-
-## Keywords and Tags
-
-Power BI Dashboard, FMCG Analysis, Sales Analytics, Business Intelligence, Data Visualization, DAX, Power Query, Multi-Country Sales, Revenue Analysis, Profit Analysis, Product Performance, Regional Performance, Promotional Analysis, KPI Dashboard, Interactive Dashboard, Data Analytics Project, Business Analytics, Sales Dashboard, Marketing Analytics, Retail Analytics, Consumer Goods Analysis, Data-Driven Decision Making, Portfolio Project
 
 ## Project License and Usage
 
